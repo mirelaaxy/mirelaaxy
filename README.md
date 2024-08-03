@@ -1,4 +1,14 @@
-## Hi there 👋
+## meu nome é Mirela Graffunder 🐉 
+⤑ estou estudando no Alura 🅰️
+
+⤑ estou me desenvolvendo na linguagem JavaScript 💠
+
+⤑ utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 📘
+
+
+Você pode entrar em contato comigo 📫
+⤑ mirela.graffunder@escola.pr.gov.br
+
 
 <!--
 **mirelaaxy/mirelaaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
